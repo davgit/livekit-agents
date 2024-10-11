@@ -1,5 +1,13 @@
 # livekit-agents
 
+## 0.10.2
+
+### Patch Changes
+
+- Fix split_paragraphs and simple-rag example - [#896](https://github.com/livekit/agents/pull/896) ([@davidzhao](https://github.com/davidzhao))
+
+- Allow forcing interruptions of incomplete audio - [#891](https://github.com/livekit/agents/pull/891) ([@martin-purplefish](https://github.com/martin-purplefish))
+
 ## 0.10.1
 
 ### Patch Changes
